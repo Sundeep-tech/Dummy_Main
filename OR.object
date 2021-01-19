@@ -1,0 +1,52 @@
+<Root type="OR" ref="NewProject_Jan19">
+  <Page title="Facebook – log in or sign up" ref="Facebook">
+    <ObjectGroup ref="Create New Account">
+      <Object frame="" ref="Create New Account">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="u_0_2" ref="id" pref="2"/>
+        <Property value="Create New Account" ref="link_text" pref="3"/>
+        <Property value="//a[contains(normalize-space(text()),'Create New Account')]" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div/div[2]/div/div/div/div/div[2]/div/div/form/div[5]/a" ref="xpath" pref="5"/>
+        <Property value="_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy" ref="class" pref="6"/>
+        <Property value="#u_0_2" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="9"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="First name">
+      <Object frame="" ref="First name">
+        <Property value="firstname" ref="name" pref="1"/>
+        <Property value="u_l_b" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="//input[@placeholder='First name']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div[2]/div/div/div[2]/div/div/div/form/div/div/div/div/div/input)[1]" ref="xpath" pref="5"/>
+        <Property value="inputtext _58mg _5dba _2ph-" ref="class" pref="6"/>
+        <Property value="#u_l_b" ref="css" pref="7"/>
+        <Property value="text" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="lastname">
+      <Object frame="" ref="lastname">
+        <Property value="lastname" ref="name" pref="1"/>
+        <Property value="u_l_d" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="//div/div/div[2]/div/div/input" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div[3]/div[2]/div/div/div[2]/div/div/div/form/div/div/div/div[2]/div/div/input" ref="xpath" pref="5"/>
+        <Property value="inputtext _58mg _5dba _2ph-" ref="class" pref="6"/>
+        <Property value="#u_l_d" ref="css" pref="7"/>
+        <Property value="text" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="reg_email__">
+      <Object frame="" ref="reg_email__">
+        <Property value="reg_email__" ref="name" pref="1"/>
+        <Property value="u_l_g" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="//form/div/div[2]/div/div/input" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div[3]/div[2]/div/div/div[2]/div/div/div/form/div/div[2]/div/div/input" ref="xpath" pref="5"/>
+        <Property value="inputtext _58mg _5dba _2ph-" ref="class" pref="6"/>
+        <Property value="#u_l_g" ref="css" pref="7"/>
+        <Property value="text" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>
