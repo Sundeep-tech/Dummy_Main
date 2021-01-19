@@ -9,7 +9,7 @@
         <Property value="/html/body/div/div[2]/div/div/div/div/div[2]/div/div/form/div[5]/a" ref="xpath" pref="5"/>
         <Property value="_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy" ref="class" pref="6"/>
         <Property value="#u_0_2" ref="css" pref="7"/>
-        <Property value="a" ref="type" pref="9"/>
+        <Property value="a" ref="type" pref="8"/>
       </Object>
     </ObjectGroup>
     <ObjectGroup ref="First name">
